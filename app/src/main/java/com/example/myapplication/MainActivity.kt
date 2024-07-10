@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
             null
         )
 
-        myWebView.loadUrl("https://google.com")
+        myWebView.loadUrl("https://flecha.thegoodseat.fr")
     }
 
     inner class JSBridge() {
